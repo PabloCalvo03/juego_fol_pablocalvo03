@@ -76,15 +76,8 @@ body {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     margin: 0;
     color: rgb(66, 111, 112);
-}
-
-.autor {
-    position: absolute;
-    bottom: 30px;
-    color: rgb(66, 111, 112);
-    font-size: 2rem;
 }
 
