@@ -30,6 +30,7 @@ body {
     border-radius: 10px;
     margin: 30px;
     color: rgb(66, 111, 112);
+    max-height: 400px;
 }
 
 .categoria {
@@ -45,6 +46,7 @@ body {
     object-fit: cover;
     height: 0px;
     width: 0px;
+    max-height: 150px;
     border-radius: 10px;
 }
 
@@ -79,5 +81,5 @@ h1 {
     font-size: 3rem;
     margin: 0;
     color: rgb(66, 111, 112);
-}
+} 
 
