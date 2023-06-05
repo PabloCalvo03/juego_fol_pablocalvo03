@@ -53,6 +53,8 @@ function escogerPreguntaAleatoria() {
   }
   npreguntas.push(n);
   preguntas_hechas++;
+  
+  select_id("numero").innerHTML = preguntas_hechas;
 
   escogerPregunta(n);
 }
@@ -61,7 +63,6 @@ function escogerPregunta(n) {
   pregunta = interprete_bp[n];
   select_id("categoria").innerHTML = pregunta.categoria;
   select_id("pregunta").innerHTML = pregunta.pregunta;
-  select_id("numero").innerHTML = n;
   let pc = preguntas_correctas;
   if (preguntas_hechas > 1) {
     select_id("puntaje").innerHTML = pc + "/" + (preguntas_hechas - 1);
