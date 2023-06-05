@@ -1,5 +1,5 @@
 * {
-    transition: all 0.3s;
+    transition: all 0.2s;
 }
 
 body {
@@ -28,9 +28,6 @@ body {
     cursor: pointer;
     border-radius: 10px;
     margin: 15px;
-}
-
-.btn a{
     text-decoration: none;
     color: rgb(66, 111, 112);
     font-weight: bold;
