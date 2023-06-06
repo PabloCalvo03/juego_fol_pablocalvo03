@@ -28,7 +28,7 @@ body {
     max-width: 600px;
     padding: 8px;
     border-radius: 10px;
-    margin: 30px;
+    margin: 15px;
     color: rgb(66, 111, 112);
     max-height: 400px;
 }
@@ -73,7 +73,6 @@ body {
 }
   
 .puntaje{
-    padding:10px;
     color:white;
 }
 
@@ -90,7 +89,7 @@ h1 {
     font-size: 1.7rem;
 }
 
-@media only screen and (max-width: 880px) {
+@media only screen and (max-width: 950px) {
     .autor {
       display: none;
     }
