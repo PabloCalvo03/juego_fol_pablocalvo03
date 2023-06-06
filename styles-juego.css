@@ -87,5 +87,11 @@ h1 {
     position: absolute;
     bottom: 7px;
     color: rgb(66, 111, 112);
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
+
+@media only screen and (max-width: 880px) {
+    .autor {
+      display: none;
+    }
+  }
