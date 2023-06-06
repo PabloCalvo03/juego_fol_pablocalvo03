@@ -17,11 +17,11 @@
     },
     {
     "categoria": "DERECHO LABORAL",
-    "pregunta": "¿En qué ámbito laboral se aplica la regulación específica para los deportistas profesionales?",
-    "respuesta": "En el ámbito del deporte profesional.",
-    "incorrecta1": "En el ámbito de la industria alimentaria.",
-    "incorrecta2": "En el ámbito de la construcción.",
-    "incorrecta3": "En el ámbito de la educación."
+    "pregunta": "¿Cuál de las siguientes es una relación laboral especial?",
+    "respuesta": "Deportista profesional.",
+    "incorrecta1": "Persona con contrato indefinido.",
+    "incorrecta2": "Albañil",
+    "incorrecta3": "Programador
     },
     {
     "categoria": "DERECHO LABORAL",
