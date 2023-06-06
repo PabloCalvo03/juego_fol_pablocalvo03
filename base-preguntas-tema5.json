@@ -54,6 +54,22 @@
     "incorrecta1": "Complementos salariales y no salariales",
     "incorrecta2": "Prorrata pagas extras",
     "incorrecta3": "Salario base"
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "¿Cual es el plazo para sancionar una falta leve?",
+    "respuesta": "10 días desde que la empresa tuvo conocimiento",
+    "incorrecta1": "15 días desde la entrada del trabajador en la empresa",
+    "incorrecta2": "15 días desde que la empresa tuvo conocimiento",
+    "incorrecta3": "10 días desde la entrada del trabajador en la empresa"
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "Respecto a la videovigilancia",
+    "respuesta": "La empresa no necesita el consentimiento para instalar camaras",
+    "incorrecta1": "La empresa no necesita el consentimiento para instalar microfonos",
+    "incorrecta2": "La empresa puede grabar en vestuarios y comedores",
+    "incorrecta3": "La empresa puede instalar camaras en las casas de los trabajadores"
   }
 
 ]
