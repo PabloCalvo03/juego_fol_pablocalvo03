@@ -2,7 +2,7 @@
   {
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Qué es la salud laboral?",
-    "respuesta": "Bienestar físico, psíquico y social del trabajador en su trabajo.",
+    "respuesta": "Bienestar físico, psíquico y social.",
     "incorrecta1": "Ausencia de enfermedades en el entorno laboral.",
     "incorrecta2": "Estado físico de los trabajadores.",
     "incorrecta3": "Aspecto psicológico de los trabajadores."
@@ -11,16 +11,16 @@
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Qué es la prevención de riesgos laborales?",
     "respuesta": "Medidas para evitar o disminuir daños derivados del trabajo.",
-    "incorrecta1": "Protección de los jefes ante situaciones de peligro.",
+    "incorrecta1": "Protección de los jefes ante situaciones de peligro en el trabajo.",
     "incorrecta2": "Protección de la propiedad y activos de la empresa.",
     "incorrecta3": "Responsabilidad exclusiva de los trabajadores."
   },
   {
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Cuál es la relación entre el trabajo y la salud de las personas?",
-    "respuesta": "El trabajo y la salud están íntimamente relacionados, ya que la salud es necesaria para poder trabajar y el trabajo puede generar daños en la salud de las personas.",
+    "respuesta": "La salud es necesaria para poder trabajar y el trabajo puede generar daños en la salud de las personas.",
     "incorrecta1": "El trabajo no tiene ningún impacto en la salud de las personas.",
-    "incorrecta2": "La salud no es un factor relevante en el entorno laboral.",
+    "incorrecta2": "La salud no es un factor relevante en el entorno laboral de hecho es mejor no tener salud para ser mas productivo.",
     "incorrecta3": "El trabajo solo afecta el bienestar físico de las personas."
   },
   {
@@ -34,16 +34,16 @@
   {
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Cuál es el objetivo de la prevención de riesgos laborales?",
-    "respuesta": "El objetivo de la prevención de riesgos laborales es evitar o disminuir los daños derivados del trabajo a través de medidas y actuaciones adoptadas en todas las fases de actividad de una empresa.",
+    "respuesta": "El objetivo de la prevención de riesgos laborales es evitar o disminuir los daños derivados del trabajo a través de medidas y actuaciones adoptadas en una empresa.",
     "incorrecta1": "El objetivo de la prevención de riesgos laborales es proteger únicamente a los empresarios.",
-    "incorrecta2": "El objetivo de la prevención de riesgos laborales es garantizar la productividad de la empresa.",
+    "incorrecta2": "El objetivo de la prevención de riesgos laborales es garantizar la productividad de la empresa para que esta pueda ganar mucho dinero y pagarle a sus empleados mucho mas.",
     "incorrecta3": "El objetivo de la prevención de riesgos laborales es eliminar por completo los riesgos en el entorno laboral."
   },
   {
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Cómo se define legalmente el Accidente de Trabajo?",
-    "respuesta": "El Accidente de Trabajo se define como toda lesión corporal que sufre el trabajador por cuenta ajena con ocasión del trabajo que realiza.",
-    "incorrecta1": "El Accidente de Trabajo se define como cualquier lesión física o psíquica sufrida por un trabajador.",
+    "respuesta": "El Accidente de Trabajo se define como toda lesión corporal que sufre el trabajador por cuenta ajena cuando esta trabajando.",
+    "incorrecta1": "El Accidente de Trabajo se define como cualquier lesión física o psíquica sufrida por un trabajador al llegar de una fiesta.",
     "incorrecta2": "El Accidente de Trabajo se define como cualquier lesión corporal que ocurra durante el horario laboral.",
     "incorrecta3": "El Accidente de Trabajo se define como cualquier lesión causada por factores externos al entorno laboral."
   },
@@ -59,8 +59,104 @@
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Qué se considera un accidente de trabajo según la ley, además de las lesiones sufridas durante el trabajo?",
     "respuesta": "Además de las lesiones sufridas durante el trabajo, también se considerarán accidentes de trabajo los sufridos como consecuencia del desempeño de un cargo sindical, los que sucedan al realizar tareas correspondientes a un grupo profesional diferente cumpliendo órdenes del empresario, los accidentes en misión, entre otros casos.",
-    "incorrecta1": "Solo se consideran accidentes de trabajo las lesiones sufridas directamente durante el trabajo realizado.",
+    "incorrecta1": "Solo se consideran accidentes de trabajo las lesiones sufridas directamente durante el trabajo realizado y las lesiones que se tienen durante el embarazo.",
     "incorrecta2": "Solo se consideran accidentes de trabajo las lesiones sufridas durante desplazamientos ordenados por el empresario.",
     "incorrecta3": "Solo se consideran accidentes de trabajo las lesiones sufridas durante el desempeño de un cargo sindical."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué es la fatiga en el ámbito laboral?",
+    "respuesta": "Disminución de la capacidad física y mental de un trabajador.",
+    "incorrecta1": "Estado de bienestar físico y mental en el trabajo.",
+    "incorrecta2": "Ausencia de cansancio en el entorno laboral y aumento de la euforia.",
+    "incorrecta3": "Incremento de la energía y productividad en el trabajo."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué se entiende por insatisfacción laboral?",
+    "respuesta": "Malestar que sufre una persona trabajadora como consecuencia de su trabajo y que incide de forma notable en su rendimiento.",
+    "incorrecta1": "Sentimiento de satisfacción y plenitud en el trabajo y que hace al trabajador o trabajadora querer trabajar muchisimo mas y mejor.",
+    "incorrecta2": "Estado de ánimo estable en el entorno laboral.",
+    "incorrecta3": "Aumento de la motivación y satisfacción personal en el trabajo."
+  },
+  {
+    "categoria": "Otras patologías laborales",
+    "pregunta": "¿Qué es el envejecimiento prematuro en el contexto laboral?",
+    "respuesta": "Proceso que se acelera en trabajadores expuestos a esfuerzos físicos y psíquicos considerables.",
+    "incorrecta1": "Proceso de rejuvenecimiento físico y mental en el trabajo.",
+    "incorrecta2": "Ausencia de cambios relacionados con la edad en el entorno laboral.",
+    "incorrecta3": "Incremento de la longevidad y salud en el trabajo."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué es el estrés laboral?",
+    "respuesta": "Tensión provocada por las demandas del entorno de trabajo.",
+    "incorrecta1": "Estado de relajación y bienestar en el trabajo.",
+    "incorrecta2": "Ausencia de presión y exigencias en el entorno laboral.",
+    "incorrecta3": "Incremento de la satisfacción y equilibrio personal en el trabajo."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué es el burnout o síndrome del trabajador quemado?",
+    "respuesta": "El burnout o síndrome del quemado es el desgaste emocional, despersonalización y menor realización personal que se produce en las personas trabajadoras a causa de su actividad.",
+    "incorrecta1": "Estado de plenitud y satisfacción emocional en el trabajo.",
+    "incorrecta2": "Ausencia de implicación y compromiso en el entorno laboral.",
+    "incorrecta3": "Incremento de la motivación y autorrealización en el trabajo."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Cuál es la clasificación de los equipos de trabajo en relación con máquinas y herramientas?",
+    "respuesta": "La clasificación de los equipos de trabajo se divide en máquinas, que son elementos fijos de producción utilizados para la transformación, tratamiento y acondicionamiento de materiales, y herramientas, que son útiles manuales utilizados por la persona trabajadora.",
+    "incorrecta1": "Máquinas: Elementos móviles de producción. Herramientas: Elementos fijos de producción.",
+    "incorrecta2": "Máquinas: Útiles manuales. Herramientas: Elementos fijos de producción.",
+    "incorrecta3": "Máquinas: Elementos fijos de producción. Herramientas: Elementos móviles de producción."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Cuáles son algunos de los riesgos habituales asociados a máquinas y herramientas?",
+    "respuesta": "Choques, amputaciones, atrapamientos...",
+    "incorrecta1": "Congelamiento, deshidratación, alergias.",
+    "incorrecta2": "Resfriados, torceduras, fatiga.",
+    "incorrecta3": "Mareos, desorientación, insomnio."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Cuál es una de las principales medidas de prevención y protección en el uso de máquinas y herramientas?",
+    "respuesta": "Seguir las instrucciones del fabricante en el uso, instalación y mantenimiento.",
+    "incorrecta1": "No utilizar ningún tipo de protección personal.",
+    "incorrecta2": "Utilizar ropa holgada y accesorios sueltos durante su uso.",
+    "incorrecta3": "Ignorar las señales de advertencia y la señalización de seguridad."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué se debe tener en cuenta en relación con las instalaciones eléctricas y el riesgo eléctrico?",
+    "respuesta": "Se debe considerar el contacto directo e indirecto con las partes activas de la instalación y la gravedad del riesgo, que depende de varios factores",
+    "incorrecta1": "No es necesario tomar precauciones específicas en relación con las instalaciones eléctricas.",
+    "incorrecta2": "Solo se debe considerar el contacto directo con las partes activas de la instalación, el material del que este hecha tu chaqueta en ese momento y si llevas puestos calcetines o no.",
+    "incorrecta3": "La gravedad del riesgo eléctrico solo depende de la intensidad de la corriente."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Cuáles son las vías de entrada de los agentes químicos en el organismo?",
+    "respuesta": "Respiratoria, dérmica, digestiva y parenteral.",
+    "incorrecta1": "Respiratoria, ocular, digestiva y parenteral.",
+    "incorrecta2": "Respiratoria, dérmica, visual y parenteral.",
+    "incorrecta3": "Respiratoria, dérmica, digestiva y sanguínea."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Cuál es la vía de entrada principal de los agentes químicos?",
+    "respuesta": "Respiratoria por inhalación.",
+    "incorrecta1": "Dérmica a través de la piel.",
+    "incorrecta2": "Digestiva por ingesta de alimentos.",
+    "incorrecta3": "Parenteral a través de heridas en la piel."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué es la dosis en relación a los agentes químicos?",
+    "respuesta": "La cantidad de sustancia recibida por el organismo.",
+    "incorrecta1": "La peligrosidad intrínseca de la sustancia.",
+    "incorrecta2": "La capacidad de la sustancia de producir daños.",
+    "incorrecta3": "La facilidad con la que la sustancia se disuelve."
   }
 ]
