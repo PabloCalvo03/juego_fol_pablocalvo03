@@ -1,66 +1,66 @@
 [
-    {
-        "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
-        "pregunta": "¿Qué es la salud laboral?",
-        "respuesta": "Bienestar físico, psíquico y social del trabajador en su trabajo.",
-        "incorrecta1": "Ausencia de enfermedades en el entorno laboral.",
-        "incorrecta2": "Estado físico de los trabajadores.",
-        "incorrecta3": "Aspecto psicológico de los trabajadores."
-    },
-    {
-        "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
-        "pregunta": "¿Qué es la prevención de riesgos laborales?",
-        "respuesta": "Medidas para evitar o disminuir daños derivados del trabajo.",
-        "incorrecta1": "Protección de los jefes ante situaciones de peligro.",
-        "incorrecta2": "Protección de la propiedad y activos de la empresa.",
-        "incorrecta3": "Responsabilidad exclusiva de los trabajadores."
-    },
-    {
-        "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
-        "pregunta": "¿Cuál es la relación entre el trabajo y la salud de las personas?",
-        "respuesta": "El trabajo y la salud están íntimamente relacionados, ya que la salud es necesaria para poder trabajar y el trabajo puede generar daños en la salud de las personas.",
-        "incorrecta1": "El trabajo no tiene ningún impacto en la salud de las personas.",
-        "incorrecta2": "La salud no es un factor relevante en el entorno laboral.",
-        "incorrecta3": "El trabajo solo afecta el bienestar físico de las personas."
-    },
-    {
-        "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
-        "pregunta": "¿Qué se entiende por evaluación del riesgo?",
-        "respuesta": "Identificación, análisis y valoración de riesgos en el entorno laboral.",
-        "incorrecta1": "Aplicación de medidas correctivas después de un accidente.",
-        "incorrecta2": "Responsabilidad exclusiva de los empleados.",
-        "incorrecta3": "Actividad opcional, no necesaria para garantizar la seguridad laboral."
-    },
-    {
-        "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
-        "pregunta": "¿Cuál es el objetivo de la prevención de riesgos laborales?",
-        "respuesta": "El objetivo de la prevención de riesgos laborales es evitar o disminuir los daños derivados del trabajo a través de medidas y actuaciones adoptadas en todas las fases de actividad de una empresa.",
-        "incorrecta1": "El objetivo de la prevención de riesgos laborales es proteger únicamente a los empresarios.",
-        "incorrecta2": "El objetivo de la prevención de riesgos laborales es garantizar la productividad de la empresa.",
-        "incorrecta3": "El objetivo de la prevención de riesgos laborales es eliminar por completo los riesgos en el entorno laboral."
-    },
-    {
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué es la salud laboral?",
+    "respuesta": "Bienestar físico, psíquico y social del trabajador en su trabajo.",
+    "incorrecta1": "Ausencia de enfermedades en el entorno laboral.",
+    "incorrecta2": "Estado físico de los trabajadores.",
+    "incorrecta3": "Aspecto psicológico de los trabajadores."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué es la prevención de riesgos laborales?",
+    "respuesta": "Medidas para evitar o disminuir daños derivados del trabajo.",
+    "incorrecta1": "Protección de los jefes ante situaciones de peligro.",
+    "incorrecta2": "Protección de la propiedad y activos de la empresa.",
+    "incorrecta3": "Responsabilidad exclusiva de los trabajadores."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Cuál es la relación entre el trabajo y la salud de las personas?",
+    "respuesta": "El trabajo y la salud están íntimamente relacionados, ya que la salud es necesaria para poder trabajar y el trabajo puede generar daños en la salud de las personas.",
+    "incorrecta1": "El trabajo no tiene ningún impacto en la salud de las personas.",
+    "incorrecta2": "La salud no es un factor relevante en el entorno laboral.",
+    "incorrecta3": "El trabajo solo afecta el bienestar físico de las personas."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Qué se entiende por evaluación del riesgo?",
+    "respuesta": "Identificación, análisis y valoración de riesgos en el entorno laboral.",
+    "incorrecta1": "Aplicación de medidas correctivas después de un accidente.",
+    "incorrecta2": "Responsabilidad exclusiva de los empleados.",
+    "incorrecta3": "Actividad opcional, no necesaria para garantizar la seguridad laboral."
+  },
+  {
+    "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
+    "pregunta": "¿Cuál es el objetivo de la prevención de riesgos laborales?",
+    "respuesta": "El objetivo de la prevención de riesgos laborales es evitar o disminuir los daños derivados del trabajo a través de medidas y actuaciones adoptadas en todas las fases de actividad de una empresa.",
+    "incorrecta1": "El objetivo de la prevención de riesgos laborales es proteger únicamente a los empresarios.",
+    "incorrecta2": "El objetivo de la prevención de riesgos laborales es garantizar la productividad de la empresa.",
+    "incorrecta3": "El objetivo de la prevención de riesgos laborales es eliminar por completo los riesgos en el entorno laboral."
+  },
+  {
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Cómo se define legalmente el Accidente de Trabajo?",
     "respuesta": "El Accidente de Trabajo se define como toda lesión corporal que sufre el trabajador por cuenta ajena con ocasión del trabajo que realiza.",
     "incorrecta1": "El Accidente de Trabajo se define como cualquier lesión física o psíquica sufrida por un trabajador.",
     "incorrecta2": "El Accidente de Trabajo se define como cualquier lesión corporal que ocurra durante el horario laboral.",
     "incorrecta3": "El Accidente de Trabajo se define como cualquier lesión causada por factores externos al entorno laboral."
-    },
-    {
+  },
+  {
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Cuáles son los requisitos para que un accidente se catalogue como accidente de trabajo?",
     "respuesta": "Los requisitos para que un accidente se catalogue como accidente de trabajo son: lesión física o psíquica, relación de causalidad entre el trabajo y la lesión, y trabajo por cuenta ajena.",
     "incorrecta1": "Los requisitos para que un accidente se catalogue como accidente de trabajo son: lesión física o psíquica y relación de causalidad entre la lesión y cualquier actividad realizada por el trabajador.",
     "incorrecta2": "Los requisitos para que un accidente se catalogue como accidente de trabajo son: lesión física o psíquica, relación de causalidad entre la lesión y el trabajo, y trabajo autónomo.",
     "incorrecta3": "Los requisitos para que un accidente se catalogue como accidente de trabajo son: lesión física o psíquica, relación de causalidad entre la lesión y el trabajo, y trabajo realizado en condiciones peligrosas."
-    },
-    {
+  },
+  {
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Qué se considera un accidente de trabajo según la ley, además de las lesiones sufridas durante el trabajo?",
     "respuesta": "Además de las lesiones sufridas durante el trabajo, también se considerarán accidentes de trabajo los sufridos como consecuencia del desempeño de un cargo sindical, los que sucedan al realizar tareas correspondientes a un grupo profesional diferente cumpliendo órdenes del empresario, los accidentes en misión, entre otros casos.",
     "incorrecta1": "Solo se consideran accidentes de trabajo las lesiones sufridas directamente durante el trabajo realizado.",
     "incorrecta2": "Solo se consideran accidentes de trabajo las lesiones sufridas durante desplazamientos ordenados por el empresario.",
     "incorrecta3": "Solo se consideran accidentes de trabajo las lesiones sufridas durante el desempeño de un cargo sindical."
-    }
+  }
 ]
