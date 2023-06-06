@@ -14,7 +14,7 @@ btn_correspondiente = [
   select_id("btn1"),
   select_id("btn2"),
   select_id("btn3"),
-  select_id("btn4")
+  select_id("btn4"),
 ];
 let npreguntas = [];
 
@@ -39,14 +39,13 @@ function escogerPreguntaAleatoria() {
       if (mostrar_pantalla_juego_términado) {
         swal.fire({
           title: "Juego finalizado",
-          text:
-            "Puntuación: " + preguntas_correctas + "/" + (preguntas_hechas),
-          icon: "success"
+          text: "Puntuación: " + preguntas_correctas + "/" + preguntas_hechas,
+          icon: "success",
         });
       }
       if (reiniciar_puntos_al_reiniciar_el_juego) {
-        preguntas_correctas = 0
-        preguntas_hechas = 0
+        preguntas_correctas = 0;
+        preguntas_hechas = 0;
       }
       npreguntas = [];
     }
@@ -55,7 +54,6 @@ function escogerPreguntaAleatoria() {
   preguntas_hechas++;
 
   select_id("numero").innerHTML = preguntas_hechas;
-
 
   escogerPregunta(n);
 }
@@ -153,5 +151,3 @@ function readText(ruta_local) {
   }
   return texto;
 }
-
-
