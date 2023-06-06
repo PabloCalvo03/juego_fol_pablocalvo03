@@ -39,5 +39,21 @@
     "incorrecta2": "50",
     "incorrecta3": "47"
   },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "¿Que es considerado horario nocturno?",
+    "respuesta": "Entre las 22:00 y las 6:00",
+    "incorrecta1": "Entre las 21:00 y las 8:00",
+    "incorrecta2": "Entre las 23:00 y las 4:00",
+    "incorrecta3": "Entre las 0:00 y las 6:00"
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "¿Que no entra en las bases de cotizacion por contingencias comunes?",
+    "respuesta": "Formación profesional",
+    "incorrecta1": "Complementos salariales y no salariales",
+    "incorrecta2": "Prorrata pagas extras",
+    "incorrecta3": "Salario base"
+  }
 
 ]
