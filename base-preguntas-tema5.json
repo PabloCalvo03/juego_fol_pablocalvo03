@@ -70,6 +70,46 @@
     "incorrecta1": "La empresa no necesita el consentimiento para instalar microfonos",
     "incorrecta2": "La empresa puede grabar en vestuarios y comedores",
     "incorrecta3": "La empresa puede instalar camaras en las casas de los trabajadores"
-  }
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "Respecto a la videovigilancia",
+    "respuesta": "La empresa no necesita el consentimiento para instalar camaras",
+    "incorrecta1": "La empresa no necesita el consentimiento para instalar microfonos",
+    "incorrecta2": "La empresa puede grabar en vestuarios y comedores",
+    "incorrecta3": "La empresa puede instalar camaras en las casas de los trabajadores"
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "Respecto a la enfermedad",
+    "respuesta": "Los datos medicos de un trabajador son confidenciales",
+    "incorrecta1": "La empresa tiene derecho a saber todas las enfermedades que tiene una persona",
+    "incorrecta2": "La empresa puede despedir a un trabajador por tener una enfermedad",
+    "incorrecta3": "La empresa debe rechazar a un trabajador si este esta enfermo"
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "¿Cual es un organismo internacional dentro del ambito laboral?",
+    "respuesta": "La O.I.T",
+    "incorrecta1": "La U.E.A",
+    "incorrecta2": "La O.F.U",
+    "incorrecta3": "La C.I.O"
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "¿Cual es un principio de aplicación?",
+    "respuesta": "Principio de norma mínima",
+    "incorrecta1": "Principio de norma mas perjudicial",
+    "incorrecta2": "Principio de renunciabilidad de derechos",
+    "incorrecta3": "Principio in jucas pre mario"
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "¿Puede un trabajador renunciar a sus derechos?",
+    "respuesta": "No, de ninguna manera",
+    "incorrecta1": "Si, siempre que el empresario este de acuerdo",
+    "incorrecta2": "Si, si los familiares estan de acuerdo",
+    "incorrecta3": "Principio in jucas pre mario"
+  },
 
 ]
