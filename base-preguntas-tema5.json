@@ -42,50 +42,50 @@
   {
     "categoria": "DERECHO LABORAL",
     "pregunta": "¿Que es considerado horario nocturno?",
-    "respuesta": "Entre las 22:00 y las 6:00",
-    "incorrecta1": "Entre las 21:00 y las 8:00",
-    "incorrecta2": "Entre las 23:00 y las 4:00",
-    "incorrecta3": "Entre las 0:00 y las 6:00"
+    "respuesta": "Entre las 22:00 y las 6:00.",
+    "incorrecta1": "Entre las 21:00 y las 8:00.",
+    "incorrecta2": "Entre las 23:00 y las 4:00.",
+    "incorrecta3": "Entre las 0:00 y las 6:00."
   },
   {
     "categoria": "DERECHO LABORAL",
     "pregunta": "¿Que no entra en las bases de cotizacion por contingencias comunes?",
-    "respuesta": "Formación profesional",
-    "incorrecta1": "Complementos salariales y no salariales",
-    "incorrecta2": "Prorrata pagas extras",
-    "incorrecta3": "Salario base"
+    "respuesta": "Formación profesional.",
+    "incorrecta1": "Complementos salariales y no salariales.",
+    "incorrecta2": "Prorrata pagas extras.",
+    "incorrecta3": "Salario base."
   },
   {
     "categoria": "DERECHO LABORAL",
     "pregunta": "¿Cual es el plazo para sancionar una falta leve?",
     "respuesta": "10 días desde que la empresa tuvo conocimiento",
-    "incorrecta1": "15 días desde la entrada del trabajador en la empresa",
-    "incorrecta2": "15 días desde que la empresa tuvo conocimiento",
-    "incorrecta3": "10 días desde la entrada del trabajador en la empresa"
+    "incorrecta1": "15 días desde la entrada del trabajador en la empresa.",
+    "incorrecta2": "15 días desde que la empresa tuvo conocimiento.",
+    "incorrecta3": "10 días desde la entrada del trabajador en la empresa."
   },
   {
     "categoria": "DERECHO LABORAL",
     "pregunta": "Respecto a la videovigilancia",
-    "respuesta": "La empresa no necesita el consentimiento para instalar camaras",
-    "incorrecta1": "La empresa no necesita el consentimiento para instalar microfonos",
-    "incorrecta2": "La empresa puede grabar en vestuarios y comedores",
-    "incorrecta3": "La empresa puede instalar camaras en las casas de los trabajadores"
+    "respuesta": "La empresa no necesita el consentimiento para instalar camaras.",
+    "incorrecta1": "La empresa no necesita el consentimiento para instalar microfonos.",
+    "incorrecta2": "La empresa puede grabar en vestuarios y comedores.",
+    "incorrecta3": "La empresa puede instalar camaras en las casas de los trabajadores."
   },
   {
     "categoria": "DERECHO LABORAL",
     "pregunta": "Respecto a la videovigilancia",
-    "respuesta": "La empresa no necesita el consentimiento para instalar camaras",
-    "incorrecta1": "La empresa no necesita el consentimiento para instalar microfonos",
-    "incorrecta2": "La empresa puede grabar en vestuarios y comedores",
-    "incorrecta3": "La empresa puede instalar camaras en las casas de los trabajadores"
+    "respuesta": "La empresa no necesita el consentimiento para instalar camaras.",
+    "incorrecta1": "La empresa no necesita el consentimiento para instalar microfonos.",
+    "incorrecta2": "La empresa puede grabar en vestuarios y comedores.",
+    "incorrecta3": "La empresa puede instalar camaras en las casas de los trabajadores."
   },
   {
     "categoria": "DERECHO LABORAL",
     "pregunta": "Respecto a la enfermedad",
-    "respuesta": "Los datos medicos de un trabajador son confidenciales",
-    "incorrecta1": "La empresa tiene derecho a saber todas las enfermedades que tiene una persona",
-    "incorrecta2": "La empresa puede despedir a un trabajador por tener una enfermedad",
-    "incorrecta3": "La empresa debe rechazar a un trabajador si este esta enfermo"
+    "respuesta": "Los datos medicos de un trabajador son confidenciales.",
+    "incorrecta1": "La empresa tiene derecho a saber todas las enfermedades que tiene una persona.",
+    "incorrecta2": "La empresa puede despedir a un trabajador por tener una enfermedad.",
+    "incorrecta3": "La empresa debe rechazar a un trabajador si este esta enfermo."
   },
   {
     "categoria": "DERECHO LABORAL",
@@ -98,18 +98,18 @@
   {
     "categoria": "DERECHO LABORAL",
     "pregunta": "¿Cual es un principio de aplicación?",
-    "respuesta": "Principio de norma mínima",
-    "incorrecta1": "Principio de norma mas perjudicial",
-    "incorrecta2": "Principio de renunciabilidad de derechos",
-    "incorrecta3": "Principio in jucas pre mario"
+    "respuesta": "Principio de norma mínima.",
+    "incorrecta1": "Principio de norma mas perjudicial.",
+    "incorrecta2": "Principio de renunciabilidad de derechos.",
+    "incorrecta3": "Principio in jucas pre mario."
   },
   {
     "categoria": "DERECHO LABORAL",
     "pregunta": "¿Puede un trabajador renunciar a sus derechos?",
-    "respuesta": "No, de ninguna manera",
-    "incorrecta1": "Si, siempre que el empresario este de acuerdo",
-    "incorrecta2": "Si, si los familiares estan de acuerdo",
-    "incorrecta3": "Principio in jucas pre mario"
-  },
+    "respuesta": "No, de ninguna manera.",
+    "incorrecta1": "Si, siempre que el empresario este de acuerdo.",
+    "incorrecta2": "Si, si los familiares estan de acuerdo.",
+    "incorrecta3": "No pero puede venderlos."
+  }
 
 ]
