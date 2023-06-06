@@ -9,26 +9,35 @@
   },
   {
     "categoria": "DERECHO LABORAL",
-    "pregunta": "¿Cuál de las siguientes relaciones laborales se considera de carácter especial según el Art. 2 del ET?",
-    "respuesta": "La del personal de alta dirección.",
-    "incorrecta1": "La de los trabajadores temporales.",
-    "incorrecta2": "La de los empleados a tiempo parcial.",
-    "incorrecta3": "La de los trabajadores autónomos."
-    },
-    {
-    "categoria": "DERECHO LABORAL",
     "pregunta": "¿Cuál de las siguientes es una relación laboral especial?",
     "respuesta": "Deportista profesional.",
     "incorrecta1": "Persona con contrato indefinido.",
     "incorrecta2": "Albañil",
     "incorrecta3": "Programador"
-    },
-    {
+  },
+  {
     "categoria": "DERECHO LABORAL",
     "pregunta": "¿Cuál es el objetivo principal de la regulación específica para el personal de alta dirección?",
     "respuesta": "Regular las condiciones laborales y responsabilidades de los altos directivos.",
     "incorrecta1": "Promover la igualdad salarial entre los trabajadores.",
     "incorrecta2": "Establecer límites en la jornada laboral.",
     "incorrecta3": "Proteger los derechos sindicales de los empleados."
-    }
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "¿Cuál es el maximo de horas extras que puede realizar un trabajador al año?",
+    "respuesta": "80",
+    "incorrecta1": "60",
+    "incorrecta2": "75",
+    "incorrecta3": "50"
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "¿Cuál es el maximo de horas semanales que puede hacer un trabajador en el computo anual?",
+    "respuesta": "40",
+    "incorrecta1": "35",
+    "incorrecta2": "50",
+    "incorrecta3": "47"
+  },
+
 ]
