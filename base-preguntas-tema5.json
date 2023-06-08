@@ -153,14 +153,6 @@
   },
   {
     "categoria": "DERECHO LABORAL",
-    "pregunta": "Gavi es un futbolista profesional, ¿Qué tipo de relación laboral tiene?",
-    "respuesta": "Relación laboral especial.",
-    "incorrecta1": "Relación laboral normal.",
-    "incorrecta2": "Relación laboral excluida.",
-    "incorrecta3": "No existe relación laboral en su caso."
-  },
-  {
-    "categoria": "DERECHO LABORAL",
     "pregunta": "Jaime lleva varios meses recibiendo su salario fuera de la fecha pactada. ¿Puede quejarse por esto?",
     "respuesta": "Si, puede hacerlo.",
     "incorrecta1": "Si, si es un trabajador que sufre el síndrome del trabajador quemado",
