@@ -121,7 +121,7 @@
   },
   {
     "categoria": "DERECHO LABORAL",
-    "pregunta": "Ana que esta trabajando en las mesas electorales de su pueblo tiene una relación laboral excluida, ¿cual de estas opciones es una razón?",
+    "pregunta": "Ana, que esta trabajando en las mesas electorales de su pueblo tiene una relación laboral excluida, ¿cual de estas opciones es una razón para ello?",
     "respuesta": "Falta de voluntariedad.",
     "incorrecta1": "Falta de ganas.",
     "incorrecta2": "En realidad no es una relación laboral excluida.",
@@ -142,7 +142,31 @@
     "incorrecta1": "La Constitución.",
     "incorrecta2": "Los tratados internacionales.",
     "incorrecta3": "Las leyes."
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "Gavi es un futbolista profesional, ¿Qué tipo de relación laboral tiene?",
+    "respuesta": "Relación laboral especial.",
+    "incorrecta1": "Relación laboral normal.",
+    "incorrecta2": "Relación laboral excluida.",
+    "incorrecta3": "No existe relación laboral en su caso."
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "Gavi es un futbolista profesional, ¿Qué tipo de relación laboral tiene?",
+    "respuesta": "Relación laboral especial.",
+    "incorrecta1": "Relación laboral normal.",
+    "incorrecta2": "Relación laboral excluida.",
+    "incorrecta3": "No existe relación laboral en su caso."
+  },
+  {
+    "categoria": "DERECHO LABORAL",
+    "pregunta": "Jaime lleva varios meses recibiendo su salario fuera de la fecha pactada. ¿Puede quejarse por esto?",
+    "respuesta": "Si, puede hacerlo.",
+    "incorrecta1": "Si, si es un trabajador que sufre el sindrome del trabajador quemado",
+    "incorrecta2": "No.",
+    "incorrecta3": "Depende de si lleva mas de 1 año en la empresa o no."
   }
-  
+
 ]
 
