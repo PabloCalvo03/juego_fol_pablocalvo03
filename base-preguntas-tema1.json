@@ -20,7 +20,7 @@
     "pregunta": "¿Cuál es la relación entre el trabajo y la salud de las personas?",
     "respuesta": "La salud es necesaria para poder trabajar y el trabajo puede generar daños en la salud de las personas.",
     "incorrecta1": "El trabajo no tiene ningún impacto en la salud de las personas.",
-    "incorrecta2": "La salud no es un factor relevante en el entorno laboral de hecho es mejor no tener salud para ser mas productivo.",
+    "incorrecta2": "La salud no es un factor relevante en el entorno laboral de hecho es mejor no tener salud para ser más productivo.",
     "incorrecta3": "El trabajo solo afecta el bienestar físico de las personas."
   },
   {
@@ -36,13 +36,13 @@
     "pregunta": "¿Cuál es el objetivo de la prevención de riesgos laborales?",
     "respuesta": "El objetivo de la prevención de riesgos laborales es evitar o disminuir los daños derivados del trabajo a través de medidas y actuaciones adoptadas en una empresa.",
     "incorrecta1": "El objetivo de la prevención de riesgos laborales es proteger únicamente a los empresarios.",
-    "incorrecta2": "El objetivo de la prevención de riesgos laborales es garantizar la productividad de la empresa para que esta pueda ganar mucho dinero y pagarle a sus empleados mucho mas.",
+    "incorrecta2": "El objetivo de la prevención de riesgos laborales es garantizar la productividad de la empresa para que esta pueda ganar mucho dinero y pagarle a sus empleados mucho más.",
     "incorrecta3": "El objetivo de la prevención de riesgos laborales es eliminar por completo los riesgos en el entorno laboral."
   },
   {
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Cómo se define legalmente el Accidente de Trabajo?",
-    "respuesta": "El Accidente de Trabajo se define como toda lesión corporal que sufre el trabajador por cuenta ajena cuando esta trabajando.",
+    "respuesta": "El Accidente de Trabajo se define como toda lesión corporal que sufre el trabajador por cuenta ajena cuando está trabajando.",
     "incorrecta1": "El Accidente de Trabajo se define como cualquier lesión física o psíquica sufrida por un trabajador al llegar de una fiesta.",
     "incorrecta2": "El Accidente de Trabajo se define como cualquier lesión corporal que ocurra durante el horario laboral.",
     "incorrecta3": "El Accidente de Trabajo se define como cualquier lesión causada por factores externos al entorno laboral."
@@ -75,7 +75,7 @@
     "categoria": "PREVENCIÓN DE RIESGOS LABORALES",
     "pregunta": "¿Qué se entiende por insatisfacción laboral?",
     "respuesta": "Malestar que sufre una persona trabajadora como consecuencia de su trabajo y que incide de forma notable en su rendimiento.",
-    "incorrecta1": "Sentimiento de satisfacción y plenitud en el trabajo y que hace al trabajador o trabajadora querer trabajar muchisimo mas y mejor.",
+    "incorrecta1": "Sentimiento de satisfacción y plenitud en el trabajo y que hace al trabajador o trabajadora querer trabajar muchísimo más y mejor.",
     "incorrecta2": "Estado de ánimo estable en el entorno laboral.",
     "incorrecta3": "Aumento de la motivación y satisfacción personal en el trabajo."
   },
@@ -132,7 +132,7 @@
     "pregunta": "¿Qué se debe tener en cuenta en relación con las instalaciones eléctricas y el riesgo eléctrico?",
     "respuesta": "Se debe considerar el contacto directo e indirecto con las partes activas de la instalación y la gravedad del riesgo, que depende de varios factores",
     "incorrecta1": "No es necesario tomar precauciones específicas en relación con las instalaciones eléctricas.",
-    "incorrecta2": "Solo se debe considerar el contacto directo con las partes activas de la instalación, el material del que este hecha tu chaqueta en ese momento y si llevas puestos calcetines o no.",
+    "incorrecta2": "Solo se debe considerar el contacto directo con las partes activas de la instalación, el material del que esté hecha tu chaqueta en ese momento y si llevas puestos calcetines o no.",
     "incorrecta3": "La gravedad del riesgo eléctrico solo depende de la intensidad de la corriente."
   },
   {
@@ -160,3 +160,4 @@
     "incorrecta3": "La facilidad con la que la sustancia se disuelve."
   }
 ]
+
